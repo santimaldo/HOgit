@@ -34,6 +34,8 @@ vi README.md
 git add README.md
 git commit
 ```
+Hola! aca estoy editando el readme
+
 
 Ya hay un nuevo snapshot. Ahora creamos una branch
 
